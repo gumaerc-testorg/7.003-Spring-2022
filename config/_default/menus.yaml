@@ -31,6 +31,10 @@ leftnav:
   name: 'Experiment 5: Surface Display and Protein Engineering'
   pageRef: /pages/experiment-5-yeast-surface-display-and-protein-engineering
   weight: 80
+- identifier: b6e83735-b2ce-40ad-a02e-aecd7551a66e
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 90
 - identifier: dfffde89-7e38-4941-8b8d-c59505873b95
   name: Lab Safety Guidelines
   pageRef: /pages/lab-safety-guidelines
