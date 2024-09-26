@@ -9,15 +9,11 @@ uid: 33d3ab2d-9329-44f1-bf83-945fb0744e8d
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Parts
 {{< thclose >}}{{< thopen >}}
-pages
-{{< thclose >}}{{< thopen >}}
-Source
+Pages in Lab Manual
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Part 3.8: Purification of ligation reactions
 {{< tdclose >}}{{< tdopen >}}
 67–68
-{{< tdclose >}}{{< tdopen rowspan="3" >}}
-7.003 Lab Manual (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Part 3.9: Preparation of inverse PCR reactions
 {{< tdclose >}}{{< tdopen >}}
@@ -28,14 +24,14 @@ Part 3.10: Pour agarose gel
 71–72
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-Day 11 In-Lab Questions (PDF)
+{{% resource_link "be227fa0-c9af-4db5-a6c6-7d0cd9983ebb" "Day 11 In-Lab Questions (PDF)" %}}
 
-{{% resource_link "4cf9122b-fd70-43dd-ac22-b526d77c36db" "Pre-Lab & Post-Lab Instructions" %}}
+{{% resource_link "4cf9122b-fd70-43dd-ac22-b526d77c36db" "Pre-Lab and Post-Lab Instructions" %}}
 
-### Day 11 Pre-Lab Tips and Reminders:
+## Day 11 Pre-Lab Tips and Reminders
 
-- Remember to include Aims for all parts (Parts 3.8 – 3.10)
+Remember to include Aims for all parts (Parts 3.8–3.10).
 
-### Day 11 Post-Lab Tips and Reminders:
+## Day 11 Post-Lab Tips and Reminders
 
-- There is no Post-Lab for Day 11 because you did not obtain any results today, but you should make a note of any deviations you made from the lab manual protocols for your own records.
+There is no post-lab for Day 11 because you did not obtain any results today, but you should make a note of any deviations you made from the lab manual protocols for your own records.

@@ -9,27 +9,25 @@ uid: b8979dac-32ae-4c66-9b8c-d406381d4b17
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Parts
 {{< thclose >}}{{< thopen >}}
-pages
-{{< thclose >}}{{< thopen >}}
-Source
+Pages in Lab Manual
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Part 4.9: Analysis of the FUS1 qPCR results
 {{< tdclose >}}{{< tdopen >}}
 106
-{{< tdclose >}}{{< tdopen >}}
-7.003 Lab Manual (PDF)
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-Day 18 In-Lab Questions (PDF)
+{{% resource_link "1f3e4ead-8687-4e47-941e-d7afa93acd6b" "Day 18 In-Lab Questions (PDF)" %}}
 
-[Pre-Lab & Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+## Supporting Files
 
-#### Day 18 Pre-Lab Notebook Tips & Reminders:
+{{% resource_link "13308d76-f4f0-42d3-a863-23def04922b3" "Day 18 qPCR Analysis Worksheet (PDF)" %}}
 
-- What is your Aim for Part 4.9?
+[Pre-Lab and Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
 
-#### Day 18 Post-Lab Notebook Tips & Reminders:
+## Day 18 Pre-Lab Notebook Tips and Reminders
 
-- Follow all the instructions and answer all the questions on the qPCR Analysis Worksheet (posted below) when completing your Day 18 Post-Lab.
+What is your Aim for Part 4.9?
 
-Day 18 qPCR Analysis Worksheet (PDF)
+## Day 18 Post-Lab Notebook Tips and Reminders
+
+Follow all the instructions and answer all the questions on the qPCR Analysis Worksheet (posted above) when completing your Day 18 post-lab.
