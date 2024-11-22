@@ -3,7 +3,7 @@ content_type: page
 description: This page lists the parts of the first experiment, and links to the lab
   days on which they are completed.
 draft: false
-title: 'Experiment 1: Genetic Screen for alpha-Factor Resistant Yeast Mutants'
+title: "Experiment 1: Genetic Screen for \u03B1-Factor Resistant Yeast Mutants"
 uid: 7670d955-bb24-4e23-a65e-42b696c945f7
 ---
 ## {{% resource_link "6958d9f0-a84c-4524-bcf9-0ec2be792a04" "Lab Day 1" %}}

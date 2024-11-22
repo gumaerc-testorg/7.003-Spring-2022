@@ -66,10 +66,10 @@ One important goal of 7.003 is to teach students how to keep a lab notebook. Mai
 
 As described below, certain sections of the notebook must be completed prior to coming to the lab each day, and other sections must be completed by the beginning of the next laboratory period.
 
-- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:                       
+- Pre-Lab: Submitted via LabArchives by 1:00 PM that lab day:                         
     1\. Aims
-- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:                       
-    1\. Data and Observations                       
+- Post-Lab: Submitted via LabArchives by 1:00 PM on the following lab day:                         
+    1\. Data and Observations                         
     2\. Summary and Conclusions
 
 Notebook entries must be submitted by 1:00 PM to receive full credit. Notebook entries submitted late on the same day they are due will be deducted points depending on the assignment and how late it is returned. 
@@ -107,4 +107,6 @@ The teaching laboratories are regulated by the same local, state, and federal re
 
 ## Acknowledgements
 
-The course instructor wishes to acknowledge the contributions of Dr. Ayce Yesilaltay and Dr. Omer Yilmaz.
+Dr. Cheung and Dr. Chu were the lab instructors and creators of the lab materials for the course. The faculty lecturers for the course were Prof. Thomas Schwartz, Prof. Lindsay Case, and Prof. Hadley Sikes.
+
+The course instructors wish also to acknowledge the contributions of Dr. Ayce Yesilaltay.

@@ -26,7 +26,3 @@ uid: 42a3d3db-6db6-4477-99c5-57e97c65c6cb
 ## {{% resource_link "6421d30f-2cbd-40bd-9df4-a2e9a47b6dcb" "Lab Day 23" %}}
 
 - Part 5.6: Clonal analysis of potential target binders
-
-## {{% resource_link "df826666-cf34-4604-b777-bbe53455cb31" "Lab Day 24" %}}
-
-- Final lab meeting for the semester
