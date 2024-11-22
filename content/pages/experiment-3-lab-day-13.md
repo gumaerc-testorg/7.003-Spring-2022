@@ -28,10 +28,6 @@ Part 3.15: Re-streaking the mutant strains
 
 {{% resource_link "8cdfa240-9e05-4854-925a-b52a641518b3" "Day 13 Back-up Sample Sequences for BLAST (PDF)" %}}
 
-{{% resource_link "90d892ad-3625-4e16-aae0-9ed2927f64b6" "Day 13 Class Sequencing Results no NNNs (PDF)" %}}
-
-{{% resource_link "9b29a02c-5f5d-48e5-898b-19693406b69a" "Day 13 Class Sequencing Results with NNNs (PDF)" %}}
-
 (Source: National Library of Medicine, accessed in Fall, 2022.)
 
 {{% resource_link "4cf9122b-fd70-43dd-ac22-b526d77c36db" "Pre-Lab & Post-Lab Instructions" %}}

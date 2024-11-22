@@ -18,7 +18,7 @@ Part 5.6: Clonal analysis of potential target binders
 132–136
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-{{% resource_link "fd64f9d0-fc9f-4661-b1bd-1041cf5cb3b7" "Day 24 In-Lab Questions (PDF)" %}}
+Day 24 In-Lab Questions (PDF)
 
 [Pre-Lab & Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
 

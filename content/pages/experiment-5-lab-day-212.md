@@ -28,7 +28,7 @@ Part 5.4: Yeast display FACS sorting
 
 #### Supporting Files
 
-{{% resource_link "9f5da520-f697-4584-b26c-3ca12c50a0ce" "Day 23 FACS Data (PDF)" %}}
+Day 23 FACS Data (PDF)
 
 [Pre-Lab and Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
 
@@ -38,9 +38,9 @@ Follow all instructions and answer all five questions below for your Day 21 post
 
 1. List what were the protocol conditions you changed from the standard protocol for each of your three magnetic bead selections A–C from Part 5.3.
 2. You plan to do three rounds of FACS selection when screening your surface display sub-library for binders to the SARS-CoV-2 target protein. State one way you can modify your overall FACS screening protocol setup to increase your selection stringency each round (i.e. a protocol modification that will screen for stronger binders with each successive round).
-3. The FACS dot plots of your results after each of the three rounds of screening are posted above. For each of the three dot plots:             
-    a. Draw lines to indicate the quadrants on each FACS plot.             
-    b. Draw lines to indicate the area where you will gate and collect the cells on each FACS plot.             
+3. The FACS dot plots of your results after each of the three rounds of screening are posted above. For each of the three dot plots:              
+    a. Draw lines to indicate the quadrants on each FACS plot.              
+    b. Draw lines to indicate the area where you will gate and collect the cells on each FACS plot.              
     c. Insert the image of all three FACS plots (labelled with the quadrants and gate) into your Day 21 post-lab on LabArchives.
 4. Explain in general why you chose that region on the FACS plot for drawing your gate.
 5. Design a possible control FACS experiment you could perform to confirm that you are selecting for yeast cells expressing binders specific for the SARS-CoV-2 target protein (and not for any other unwanted non-specific target). Indicate the expected result or outcome of your control experiment if your binders are in fact specific for the desired viral target protein.

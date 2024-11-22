@@ -10,7 +10,7 @@ The very last lab class (lab day 24) for the Spring 2022 on-campus version of 7.
 
 Note that there is NO pre-lab nor post-lab for Day 24.  There are only Day 24 ILQs:
 
-{{% resource_link "fd64f9d0-fc9f-4661-b1bd-1041cf5cb3b7" "Day 24 In-Lab Questions (PDF)" %}}
+Day 24 In-Lab Questions (PDF)
 
 ## Supporting Files
 
