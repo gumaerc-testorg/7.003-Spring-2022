@@ -3,7 +3,7 @@ content_type: page
 description: This page lists the parts of the third experiment, and links to the lab
   days on which they are completed.
 draft: false
-title: 'Experiment 3: Identifying the alpha-Resistant Mutants by Plasmid Recovery'
+title: "Experiment 3: Identifying the \u03B1-Factor Resistant Mutants by Plasmid Recovery"
 uid: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
 ---
 ## {{% resource_link "39b626be-972b-414f-8fab-e2b2a1465a10" "Lab Day 7" %}}

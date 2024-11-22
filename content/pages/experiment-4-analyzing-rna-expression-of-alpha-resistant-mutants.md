@@ -3,7 +3,7 @@ content_type: page
 description: This page lists the parts of the fourth experiment, and links to the
   lab days on which they are completed.
 draft: false
-title: 'Experiment 4: Analyzing RNA Expression of Alpha-Resistant Mutants'
+title: "Experiment 4: Analyzing RNA Expression of \u03B1-Factor Resistant Mutants"
 uid: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
 ---
 ## {{% resource_link "4a14285a-bd70-4355-a425-2c55c4d3844d" "Lab Day 14" %}}
