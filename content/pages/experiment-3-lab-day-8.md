@@ -9,25 +9,21 @@ uid: 5722f263-2c18-4c7c-8804-08ed85008277
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Parts
 {{< thclose >}}{{< thopen >}}
-pages
-{{< thclose >}}{{< thopen >}}
-Source
+Pages in Lab Manual
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 Part 3.2: Genomic DNA prep from pRSQ2 transformants
 {{< tdclose >}}{{< tdopen >}}
-55-57
-{{< tdclose >}}{{< tdopen >}}
-7.003 Lab Manual (PDF)
+55–57
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
 
-Day 8 In-Lab Questions (PDF)
+{{% resource_link "1da54e26-31db-4a4c-aae4-745636eb6fe7" "Day 8 In-Lab Questions (PDF)" %}}
 
-{{% resource_link "4cf9122b-fd70-43dd-ac22-b526d77c36db" "Pre-Lab & Post-Lab Instructions" %}}
+{{% resource_link "4cf9122b-fd70-43dd-ac22-b526d77c36db" "Pre-Lab and Post-Lab Instructions" %}}
 
-### Day 8 Pre-Lab Tips and Reminders:
+## Day 8 Pre-Lab Tips and Reminders
 
-- What are your Aims for Part 3.2?
+What are your Aims for Part 3.2?
 
-### Day 8 Post-Lab Tips and Reminders:
+## Day 8 Post-Lab Tips and Reminders
 
--  Record colony counts for all transformation plates. Remember to comment on each transformation plate in terms of expected vs. observed results and what you can conclude from each (similar plates/samples may be discussed together as a group if you want).
+Record colony counts for all transformation plates. Remember to comment on each transformation plate in terms of expected vs. observed results and what you can conclude from each. (Similar plates/samples may be discussed together as a group if you want.)
