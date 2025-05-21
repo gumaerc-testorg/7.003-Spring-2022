@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/7-003-applied-molecular-biology-lab-spring-2022/mit7_003_s22_day19_protein_alignment_worksheet.pdf
+file: courses/7003-applied-molecular-biology-lab/mit7_003_s22_day19_protein_alignment_worksheet.pdf
 file_size: 83308
 file_type: application/pdf
 image_metadata:
