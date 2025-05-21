@@ -7,38 +7,42 @@ leftnav:
   name: Calendar
   pageRef: /pages/lab-calendar
   weight: 20
+- identifier: 7653c7be-9741-447e-90de-a6b53a877903
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
 - identifier: 335b2c1e-2e1e-43b3-88de-7887c4136ec9
   name: Lab Resources
   pageRef: /pages/lab-resources
-  weight: 30
+  weight: 40
 - identifier: e3980838-0bb7-4a70-a85c-5e57560844ed
   name: Lab Manual
   pageRef: /pages/7003-lab-manual
-  weight: 40
+  weight: 50
 - identifier: 7670d955-bb24-4e23-a65e-42b696c945f7
   name: 'Experiment 1: Genetic Screen'
   pageRef: /pages/experiment-1-genetic-screen
-  weight: 50
+  weight: 60
 - identifier: b6a3e37b-39fc-4b65-9180-c825a2012e92
   name: 'Experiment 2: Testing Mutants'
   pageRef: /pages/experiment-2-testing-the-945-factor-resistant-mutants
-  weight: 60
+  weight: 70
 - identifier: 2fce93c8-1f2e-4ba8-8d64-3fbf6626ca4b
   name: 'Experiment 3: Identifying Mutants'
   pageRef: /pages/experiment-3-identifying-the-alpha-resistant-mutants-by-plasmid-recovery
-  weight: 70
+  weight: 80
 - identifier: bc8a2d0c-1188-4262-aa1e-519ab3c9090b
   name: 'Experiment 4: Analyzing RNA Expression'
   pageRef: /pages/experiment-4-analyzing-rna-expression-of-alpha-resistant-mutants
-  weight: 80
+  weight: 90
 - identifier: 42a3d3db-6db6-4477-99c5-57e97c65c6cb
   name: 'Experiment 5: Surface Display and Protein Engineering'
   pageRef: /pages/experiment-5-yeast-surface-display-and-protein-engineering
-  weight: 90
+  weight: 100
 - identifier: b6e83735-b2ce-40ad-a02e-aecd7551a66e
   name: Assignments
   pageRef: /pages/assignments
-  weight: 100
+  weight: 110
 - identifier: dfffde89-7e38-4941-8b8d-c59505873b95
   name: Lab Safety Guidelines
   pageRef: /pages/lab-safety-guidelines
