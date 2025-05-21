@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/7-003-applied-molecular-biology-lab-spring-2022/mit7_003_s22_day07_mtn3.dna
+file: courses/7003-applied-molecular-biology-lab/mit7_003_s22_day07_mtn3.dna
 file_size: 39378
 file_type: application/octet-stream
 image_metadata:
