@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/7003-applied-molecular-biology-lab/mit7_003_s22_day13_blast_worksheet.pdf
+file: /ol-ocw-studio-app/courses/7-003-applied-molecular-biology-lab-spring-2022/mit7_003_s22_day13_blast_worksheet.pdf
 file_size: 150244
 file_type: application/pdf
 image_metadata:
