@@ -47,11 +47,12 @@
     "website": "7003-applied-molecular-biology-lab"
   },
   "learning_resource_types": [
-    "Labs",
+    "Laboratory Assignments",
     "Activity Assignments",
     "Problem Sets",
     "Written Assignments"
   ],
   "site_uid": "b29b0235-3a1c-4a2d-9556-aed971184069",
-  "site_short_id": "7.003-Spring-2022"
+  "site_short_id": "7.003-Spring-2022",
+  "site_url_path": "courses/7-003-applied-molecular-biology-lab-spring-2022"
 }

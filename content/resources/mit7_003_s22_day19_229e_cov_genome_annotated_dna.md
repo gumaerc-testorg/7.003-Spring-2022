@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/7003-applied-molecular-biology-lab/mit7_003_s22_day19_229e_cov_genome_annotated.dna
+file: /ol-ocw-studio-app/courses/7-003-applied-molecular-biology-lab-spring-2022/mit7_003_s22_day19_229e_cov_genome_annotated.dna
 file_size: 108206
 file_type: application/octet-stream
 image_metadata:
