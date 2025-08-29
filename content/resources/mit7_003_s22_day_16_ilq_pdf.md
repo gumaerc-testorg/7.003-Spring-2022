@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/7003-applied-molecular-biology-lab/mit7_003_s22_day_16_ilq.pdf
+file: /ol-ocw-studio-app/courses/7-003-applied-molecular-biology-lab-spring-2022/mit7_003_s22_day_16_ilq.pdf
 file_size: 21460
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/7003-applied-molecular-biology-lab/mit7_003_s22_gen_lab_manual.pdf
+file: /ol-ocw-studio-app/courses/7-003-applied-molecular-biology-lab-spring-2022/mit7_003_s22_gen_lab_manual.pdf
 file_size: 1766505
 file_type: application/pdf
 image_metadata:
@@ -10,7 +10,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: Applied Molecular Biology Lab, 7.003 Lab Manual
