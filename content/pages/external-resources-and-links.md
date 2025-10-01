@@ -8,26 +8,26 @@ uid: 8c4dc102-4680-4aab-be07-e144b8cea3dd
 ---
 ## Biology Resource Guide
 
-[The National Center for Biotechnology Information (NCBI)](https://www.ncbi.nlm.nih.gov/)
+{{% resource_link "e4118441-7324-45c7-9a2f-e8be1b2d5514" "The National Center for Biotechnology Information (NCBI)" %}}
 
-[NCBI BLAST database search](https://blast.ncbi.nlm.nih.gov/Blast.cgi)
+{{% resource_link "2475c394-84fd-4dd1-abd1-1a292cc8a5da" "NCBI BLAST database search" %}}
 
-[Saccharomyces Genome Database](https://yeastgenome.org/)
+{{% resource_link "15314970-15f9-490a-bdee-587bb46d6c6e" "Saccharomyces Genome Database" %}}
 
-[SnapGene Software](https://www.snapgene.com/)
+{{% resource_link "3e4d157b-7421-41e8-9e3c-c3c85691b549" "SnapGene Software" %}}
 
-[MIT Libraries Biology Guide](https://libguides.mit.edu/biology)
+{{% resource_link "299260fa-43a1-4045-b2ac-51174f9ab6bd" "MIT Libraries Biology Guide" %}}
 
-[MIT Libraries: Bioscience Protocol and Methods](https://libguides.mit.edu/protocols)
+{{% resource_link "34e573e1-00e2-432e-a024-b5df0226ac53" "MIT Libraries: Bioscience Protocol and Methods" %}}
 
 ## Article Databases
 
-[PubMed Search](https://pubmed.ncbi.nlm.nih.gov/)
+{{% resource_link "8a3bd4db-6b34-4753-8037-fd450b2ee189" "PubMed Search" %}}
 
-[Web of Science](https://access.clarivate.com/login?app=wos&alternative=true&shibShireURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fauth%3DShibboleth&shibReturnURL=https:%2F%2Fwww.webofknowledge.com%2F%3Fmode%3DNextgen%26action%3Dtransfer%26path%3D%252Fwos%252Fwoscc%252Fbasic-search%26DestApp%3DUA&referrer=mode%3DNextgen%26path%3D%252Fwos%252Fwoscc%252Fbasic-search%26DestApp%3DUA%26action%3Dtransfer&roaming=true)
+{{% resource_link "e56bb762-bf45-4540-97c9-a6a09297a8ec" "Web of Science" %}}
 
-[Google Scholar](https://scholar.google.com/)
+{{% resource_link "9da96c48-5f97-444b-bbdd-3ddd80ccbad8" "Google Scholar" %}}
 
 ## Citation Management
 
-[Zotero software](https://www.zotero.org/)
+{{% resource_link "aae0dd64-dfcb-4ea8-8fd8-9fd8a52b115b" "Zotero software" %}}
