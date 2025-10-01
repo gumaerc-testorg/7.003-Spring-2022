@@ -22,7 +22,7 @@ Part 4.6: Pour agarose gel
 
 {{% resource_link "ddb74267-81c0-435c-af60-9cacfb729fc0" "Day 16 In-Lab Questions (PDF)" %}}
 
-[Pre-Lab and Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+{{% resource_link "d33b359b-4775-43fc-8664-7edea80c402a" "Pre-Lab and Post-Lab Instructions" %}}
 
 ## Day 16 Pre-Lab Notebook Tips and Reminders
 
