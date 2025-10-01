@@ -1,0 +1,10 @@
+---
+content_type: external-resource
+external_url: https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects
+has_external_license_warning: true
+license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: ''
+title: CI-M (Communication Intensive
+uid: 42c7c032-18f5-4650-93a3-0dbf09c07f7f
+wayback_url: ''
+---
