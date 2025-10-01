@@ -18,7 +18,7 @@ Part 5.2: Yeast display magnetic bead sorting
 
 {{% resource_link "d5281b01-3b36-4cda-b4d4-67a2f5a3dba7" "Day 20 In-Lab Questions (PDF)" %}}
 
-[Pre-Lab and Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+{{% resource_link "d33b359b-4775-43fc-8664-7edea80c402a" "Pre-Lab and Post-Lab Instructions" %}}
 
 ## Day 20 Post-Lab Notebook Tips and Reminders
 

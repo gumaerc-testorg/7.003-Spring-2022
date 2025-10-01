@@ -20,7 +20,7 @@ Part 3.1: Yeast transformation of the pRSQ2 recovery plasmid
 
 ### Supporting Files
 
-**Note:** The (.dna) files used in this course contain DNA sequence data that are necessary to complete the in-lab questions. [SnapGene](https://www.snapgene.com/) is a molecular biology software application that is used to view and work with these files and is available to [try for free](https://www.snapgene.com/free-trial). 
+**Note:** The (.dna) files used in this course contain DNA sequence data that are necessary to complete the in-lab questions. {{% resource_link "3e4d157b-7421-41e8-9e3c-c3c85691b549" "SnapGene" %}} is a molecular biology software application that is used to view and work with these files and is available to {{% resource_link "2d26e4be-91f1-47ea-bca9-2e3e0237d465" "try for free" %}}. 
 
 {{% resource_link "8fdcd058-008e-41de-b4e2-c45b774edb41" "pRSQ2-URA3 Plasmid (.dna)" %}}
 

@@ -30,7 +30,7 @@ Part 2.4: Set up sporulation assay
 
 {{% resource_link "21e46349-f821-427d-b1f9-741034c70255" "Day 5 In-Lab Questions (PDF)" %}}
 
-[Pre-Lab and Post-Lab Instructions](https://draft.ocw.mit.edu/courses/7-003-applied-molecular-biology-lab-spring-2022/pages/lab-notebook-instructions/)
+{{% resource_link "d33b359b-4775-43fc-8664-7edea80c402a" "Pre-Lab and Post-Lab Instructions" %}}
 
 ## Day 5 Pre-Lab Tips and Reminders
 
